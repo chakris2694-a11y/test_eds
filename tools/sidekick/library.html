@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Library</title>
+</head>
+
+<body>
+  <script type="module">
+    import 'https://www.aem.live/tools/sidekick/library.js';
+
+    const library = document.createElement('sidekick-library');
+
+    library.config = {
+      base: '/tools/sidekick/library.json',
+    };
+
+    document.body.appendChild(library);
+  </script>
+</body>
+</html>

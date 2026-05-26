@@ -1,0 +1,31 @@
+.custom-card-wrapper {
+  border: 1px solid #ddd;
+  padding: 16px;
+  max-width: 400px;
+  border-radius: 8px;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+
+.card-content {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.card-dropdown {
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 10px;
+}
+
+.card-footer {
+  font-size: 12px;
+  color: gray;
+  border-top: 1px solid #eee;
+  padding-top: 8px;
+}
