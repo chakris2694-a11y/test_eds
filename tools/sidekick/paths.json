@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/test_eds/:/",
+    "/tools/sidekick/blocks/:/tools/sidekick/blocks/"
+  ],
+  "includes": [
+    "/content/test_eds/",
+    "/tools/sidekick/blocks/"
+  ]
+}
